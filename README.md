@@ -1,0 +1,2 @@
+# bitcoin-feather-forking-countermeasure
+This study investigates the architecture of the popular cryptocurrency platform, Bitcoin, and the underlying protocols that allow for Feather Forking attacks to occur - namely, Proof-of-Work (POW), Peer-to-Peer communication (P2P), and miner strategy. We also propose that the Blindly Signed Contracts anonymity protocol can be used as a countermeasure for such attacks while also providing greater privacy.
